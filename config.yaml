@@ -1,0 +1,10 @@
+pairs:
+  - pair: BTCUSDT
+    interval: 1h
+  - pair: ETHUSDT
+    interval: 1h
+
+telegram:
+  bot_token: "8177150766:AAHAqGpPYHvFN7_SmEMAUnCWyXE3uy1KhFU"
+  chat_id: "382758242"
+
