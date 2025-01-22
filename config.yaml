@@ -5,6 +5,6 @@ pairs:
     interval: 1h
 
 telegram:
-  bot_token: "8177150766:AAHAqGpPYHvFN7_SmEMAUnCWyXE3uy1KhFU"
-  chat_id: "382758242"
+  bot_token: ""
+  chat_id: ""
 
